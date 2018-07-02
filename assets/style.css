@@ -1,0 +1,54 @@
+.jumbo{
+  margin: auto;
+  width: 40%;
+  padding: 100px 0px 100px 0px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+/* 4e9b9b */
+/* cc783b */
+/* ffb27c */
+
+.social-holder{
+  text-align:center;
+  background-color: #4e9b9b;
+  margin-bottom: 25px;
+}
+  
+.social-icon{
+  display: inline-block;
+  padding: 50px;
+  width: 50px;
+}
+
+#sticky{
+
+}
+
+#sticky-phantom {
+  visibility: hidden;
+  height: 152.5px;
+  margin-bottom: 25px;
+}
+
+.stuck{
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+#profile-pic{
+  border-radius: 50%;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #4e9b9b;
+  padding: 5px;
+  margin: 10px;
+  width: 300px;
+}
