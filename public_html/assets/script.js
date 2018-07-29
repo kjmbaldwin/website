@@ -22,3 +22,7 @@ $(".social-icon").mouseover(function () {
 }).mouseout(function () {
   $(this).attr('src', $(this).data("src"));
 });
+
+$('.special.cards .image').dimmer({
+  on: 'hover'
+});
